@@ -1,8 +1,6 @@
 """
 Basic agent/scenario launching
 """
-import time
-
 import trio
 import pytest
 
